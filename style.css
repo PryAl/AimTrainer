@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+.properties {
+    display: flex;
+    margin-left: 50px;
+    flex-direction: column;
+}
+.properties button {
+    margin-top: 15px;
+}
+#c1 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+}
